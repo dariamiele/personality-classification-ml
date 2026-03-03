@@ -23,7 +23,6 @@ The model demonstrates strong generalization and stable validation performance.
 
 ## Repository Structure
 - `personality_classification.ipynb`: Full project implementation
-- `main.py`: Script version of the ML pipeline
 - `requirements.txt`: Project dependencies
 
 ## Skills Demonstrated
@@ -35,5 +34,3 @@ The model demonstrates strong generalization and stable validation performance.
 - Statistical Modeling
 - `requirements.txt`: Project dependencies
 
-## How to Run
-Install dependencies and run the notebook locally.
