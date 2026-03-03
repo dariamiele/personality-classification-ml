@@ -22,7 +22,17 @@ Test set performance:
 The model demonstrates strong generalization and stable validation performance.
 
 ## Repository Structure
-- `notebook.ipynb`: Full project implementation
+- `personality_classification.ipynb`: Full project implementation
+- `main.py`: Script version of the ML pipeline
+- `requirements.txt`: Project dependencies
+
+## Skills Demonstrated
+- Machine Learning
+- Model Evaluation
+- Cross-Validation
+- Data Preprocessing
+- Class Imbalance Handling
+- Statistical Modeling
 - `requirements.txt`: Project dependencies
 
 ## How to Run
